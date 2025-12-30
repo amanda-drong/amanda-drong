@@ -1,11 +1,11 @@
 <div align="center">
-  <img height="150" src="https://media1.tenor.com/m/An_EgVt-nWoAAAAd/city-lofi.gif"  />
+  <img height="150" src="  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/amanda-camargo-drong" target="_blank">
+  <a href="www.linkedin.com/in/amanda-camargo-drong/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@amandadrong" target="_blank">
@@ -16,7 +16,7 @@
   </a>
 </div>
 
-###
+##
 
 <h1 align="center">Olá Mundo!</h1>
 
@@ -28,7 +28,7 @@
 
 <p align="left">• 	👩‍💻 Sou Amanda, natural de Cândido de Abreu – Paraná<br>• 	🚀 Participei do Talento Tech 2024, ampliando minhas habilidades na área de tecnologia<br>• 	🎓 Atualmente curso Especialização em Inteligência Artificial<br>• 	💻 Atuo como Desenvolvedora Front-End Júnior, com foco em criar interfaces modernas e funcionais<br>• 	🌐 Tenho interesse em inovação, aprendizado contínuo e aplicação prática de soluções digitais<br>• 	🎶 Nos momentos de lazer, gosto de ouvir K-pop, assistir doramas e animes, além de jogar online.</p>
 
-###
+##
 
 <h3 align="left">🛠 Linguagens e ferramentas</h3>
 
@@ -74,12 +74,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
 </div>
 
-###
+##
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/amanda-drong/amanda-drong/output/snake.svg" alt="Snake animation" />
-
-###
