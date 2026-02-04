@@ -16,63 +16,72 @@
   </a>
 </div>
 
-##
+---
 
-<h1 align="center">Olá Mundo!</h1>
+<h1 align="center">Olá, eu sou a Amanda 👋</h1>
 
 ###
 
 <h3 align="left">✨ Sobre mim</h3>
 
-###
+<p align="left">
+👩‍💻 Estudante de <b>Engenharia de Software</b> na <b>Unicesumar</b><br>
+🎓 Formação técnica pela <b>Universidade Estadual de Ponta Grossa (UEPG)</b> — Programa <b>Talento Tech (960h)</b><br>
+💻 Foco em <b>Desenvolvimento Front-end</b>, criando interfaces modernas, responsivas e acessíveis<br>
+🤖 Interesse em <b>Inteligência Artificial</b>, automação e soluções digitais<br>
+🌎 Inglês <b>Intermediário (B1 – CEFR)</b><br>
+🚀 Buscando oportunidades para atuar como desenvolvedora e evoluir em projetos reais
+</p>
 
-<p align="left">• 	👩‍💻 Sou Amanda, natural de Cândido de Abreu – Paraná<br>• 	🚀 Participei do Talento Tech 2024, ampliando minhas habilidades na área de tecnologia<br>• 	🎓 Atualmente curso Especialização em Inteligência Artificial<br>• 	💻 Atuo como Desenvolvedora Front-End Júnior, com foco em criar interfaces modernas e funcionais<br>• 	🌐 Tenho interesse em inovação, aprendizado contínuo e aplicação prática de soluções digitais<br>• 	🎶 Nos momentos de lazer, gosto de ouvir K-pop, assistir doramas e animes, além de jogar online.</p>
+---
 
-##
-
-<h3 align="left">🛠 Linguagens e ferramentas</h3>
-
-###
+<h3 align="left">🛠 Linguagens e Tecnologias</h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="40" alt="sdl logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="40" alt="moodle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+
+<!-- Front-end -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+
+<!-- Programação -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>
+
+<!-- Mobile -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
+
+<!-- Banco de Dados -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40"/>
+
+<!-- Ferramentas -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+
+<!-- Cloud e Serviços -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>
+
 </div>
 
-##
+---
 
+<h3 align="left">📚 Atualmente estudando</h3>
+
+<ul>
+  <li>Engenharia de Software (Unicesumar)</li>
+  <li>Boas práticas de Front-end e Acessibilidade (A11y)</li>
+  <li>Inteligência Artificial aplicada</li>
+  <li>Fundamentos de DevOps e ambientes Linux</li>
+</ul>
+
+---
+
+<h3 align="left">🎯 Objetivo</h3>
+
+<p align="left">
+Atuar como desenvolvedora Front-end em nível estágio ou júnior, contribuindo em projetos reais, colaborando com equipes e evoluindo continuamente em engenharia de software e tecnologias inteligentes.
+</p>
