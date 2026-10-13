@@ -79,7 +79,7 @@
 <ul>
   <li>Engenharia de Software (UniCesumar)</li>
   <li>Desenvolvimento Web e boas práticas de Front-end</li>
-  <li>TypeScript e React</li>
+  <li>TypeScript, React e C</li>
   <li>Inteligência Artificial aplicada</li>
   <li>Fundamentos de DevOps e ambientes Linux</li>
 </ul>
