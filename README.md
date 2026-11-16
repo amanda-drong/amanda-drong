@@ -97,5 +97,5 @@ Como <b>Estudante Embaixadora Google 2026</b>, faço parte de uma comunidade aca
 <h3 align="left">🎯 Objetivo</h3>
 
 <p align="left">
-Busco uma oportunidade de <b>estágio em Tecnologia</b>, especialmente em Desenvolvimento de Software, onde possa aplicar meus conhecimentos, aprender com profissionais da área, colaborar em projetos reais e continuar evoluindo ao longo da minha formação em Engenharia de Software.
+Busco uma oportunidade na <b>Tecnologia</b>, especialmente em Desenvolvimento de Software, onde possa aplicar meus conhecimentos, aprender com profissionais da área, colaborar em projetos reais e continuar evoluindo ao longo da minha formação em Engenharia de Software.
 </p>
